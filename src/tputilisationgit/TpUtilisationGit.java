@@ -16,6 +16,7 @@ public class TpUtilisationGit {
     public static void main(String[] args) {
         
         //Etape 3 : modification par ajout de commentaire
+        System.out.println("Message affiché par Rayane")
         
     }
     
